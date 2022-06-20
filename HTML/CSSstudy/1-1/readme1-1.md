@@ -1,3 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63444424/174604792-7f4004cc-9827-4881-b85b-9e2c8077c999.mov](https://user-images.githubusercontent.com/63444424/174605336-332f56a1-1283-4275-8123-95c71a11aa7c.gif">
+  <img src="https://user-images.githubusercontent.com/63444424/174605336-332f56a1-1283-4275-8123-95c71a11aa7c.gif">
+  <p>세로로 출력</p>
+  <br/>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/63444424/174605361-4486cd06-21ce-4ded-8cfb-1d15f6ecdfb5.gif">
+  <p>가로로 출력</p>
 </p>
