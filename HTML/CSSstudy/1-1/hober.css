@@ -16,7 +16,7 @@ div {
 
 section:hover ~ div:not(:nth-of-type(3)) {
 /*  가로로 출력  */
-  /* display: inline-block; */
+  display: inline-block;
 /*  세로로 출력  */
-  display : block;
+  /* display : block; */
 }
